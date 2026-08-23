@@ -24,12 +24,11 @@ repository               : "naavyasharma/personalblog"
 author:
   name: "Naavya Sharma"
   avatar: "profile.png"
-  bio: "High school student exploring mathematics, computer science, and AI."
+  bio: "High school student exploring Mathematics, Robots and AI."
   location: "USA"
-  email: ""
 
   # Repositories and software development
-  github           : "academicpages"
+  github           : "naavyasharma"
   kaggle           : # Username  
   
   # Social media
