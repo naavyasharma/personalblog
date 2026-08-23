@@ -1,9 +1,10 @@
 ---
-layout: collection
+layout: single
 title: "Projects"
 permalink: /projects/
-collection: portfolio
 author_profile: true
 ---
 
-Here are some projects I'm working on and exploring.
+## Projects
+
+This is where I'll keep track of things I'm building, exploring, and learning from.
