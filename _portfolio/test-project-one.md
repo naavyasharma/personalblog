@@ -2,6 +2,7 @@
 title: "Test Project One"
 excerpt: "A temporary project used to test the Projects page."
 collection: portfolio
+published: false
 ---
 
 ## Test Project One
