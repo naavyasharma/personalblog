@@ -23,7 +23,7 @@ repository               : "naavyasharma/personalblog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name: "Naavya Sharma"
-  avatar: "profile.png"
+  avatar: "studentAtDesk.jpg"
   bio: "High school student exploring Mathematics, Robots and AI."
   location: "USA"
 
